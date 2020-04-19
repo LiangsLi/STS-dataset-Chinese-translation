@@ -1,0 +1,9 @@
+# 有道API请求信息
+YoudaoURL: https://openapi.youdao.com/api
+YoudaoAPP: <应用名>
+YoudaoKey: <应用ID>
+YoudaoSecret: <应用秘钥>
+# 搜狗API请求信息
+SogouURL: http://fanyi.sogou.com/reventondc/api/sogouTranslate
+SogouPID: <PID>
+sogouKey: <KEY>
